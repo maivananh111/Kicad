@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Bitmap)(type KiCad)(uri D:/Kicad_project/Bitmap)(options "")(descr ""))
+)
